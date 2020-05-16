@@ -1,0 +1,61 @@
+body{
+    width: 1000px;
+    margin: 0px auto;
+    font-family: Tahoma;
+    background-image: url(../TAINGUYEN/nen.jpg);
+    /* border: 1px solid black; */
+    
+}
+#banner{
+    height: 200px;
+    background-image: url(../TAINGUYEN/baner.jpg);
+    color: white;
+}
+#center{
+    text-align:center ;
+}
+#menu{
+    width: 300px;
+    height: 600px;
+    background-color: grey;
+    float: left;
+}
+#main{
+    width: 700px;
+    height: 600px;
+    background-color: wheat;
+    float: right;
+}
+#footer{
+    width: 1000px;
+    height: 60px;
+    float: left;
+    background-color: blue;
+    text-align: center;
+}
+table{
+    border:none;
+}
+#menu .ul1{
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+#menu .ul1 li {
+    list-style: none;
+}
+#menu .ul1 li a{
+    text-decoration: none;
+    display: block;
+    width: 300px;
+    height:60px;
+    color: wheat;
+    background-color:rgb(22, 3, 3);
+    border-bottom:1px solid white ;
+}
+#menu .ul1 li a.active{
+    background-color: blue;
+}
+#banner #login{
+    text-align: center;
+}
