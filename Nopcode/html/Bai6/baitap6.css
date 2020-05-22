@@ -1,0 +1,17 @@
+div{
+    width: 500px;
+    height: auto;
+    border: 1px solid black;
+    margin:  0px auto;
+}
+h3{
+    text-align: center;
+    color: red;
+}
+li{
+    color: blue;
+}
+p{
+    text-align: center;
+    color:purple;
+}

@@ -1,0 +1,21 @@
+#d1{
+    text-align: center; color: #006600;
+}
+#d2{
+    color: #0000ff;
+}
+#d3{
+    text-align: center; color: #ff3399; background:#ffcffd;
+}
+#p1{
+    color: #0000ff;
+}
+#p2{
+    color: #ff3399;
+}
+#p3{
+    color: #006600;
+}
+div.khung{
+    text-align: center; background: #ffffcc;
+}
