@@ -1,0 +1,83 @@
+<! DOCTYPE html>
+<html lang="vi">
+    <head> 
+       <title> Chương trình DT web </title>
+       <meta content="text/html" charset="UTF-8" />
+       <link rel="stylesheet" href="../../css/bai14.css"/>
+   </head>
+   <body>
+    <div>
+        <form action="">
+            <label for="age">Your age:</label>
+            <input type="number" min="1" id="age">
+
+            <br>
+
+            <label for="male">Your gender:</label>
+            <input type="radio" name="gender" value="Male" id="male">
+            <label for="male">Male</label>
+            <input type="radio" name="gender" value="Male" id="female">
+            <label for="female">Female</label>
+
+            <br>
+            <label for="">Check all names of the people listed whom you have heard about</label>
+            <br>
+            <input type="checkbox" name="names" id="name-1">
+            <label for="name-1">Marc Andreessen</label>
+            <input type="checkbox" name="names" id="name-2">
+            <label for="name-2">Lira Schmeeser</label>
+            <input type="checkbox" name="names" id="name-3">
+            <label for="name-2">Al Gore</label>
+            <input type="checkbox" name="names" id="name-4">
+            <label for="name-2">Boutros Boutros-Ghals</label>
+
+            <br>
+
+            <label for="web-browser">What is your favorite Web browser?</label>
+            <select name="web-browser" id="web-browser">
+                <option value="0">Netscape</option>
+                <option value="1">Google</option>
+                <option value="2">Facebook</option>
+            </select>
+
+            <br>
+
+            <label for="type-flavors">Which of these ice scream flavors have you tired?</label>
+            <select multiple="multiple" id="type-flavors">
+                <option value="0">Vanilla</option>
+                <option value="1">Chocolate</option>
+                <option value="2">Cherry Garcia</option>
+            </select>
+
+            <br>
+            <label for="password">Guess the secret password:</label>
+            <input type="password" name="password" id="password">
+
+            <br>
+
+            <label for="no">Do you have an informal nickname?</label>
+            <input type="radio" name="nickname" value="no" id="no">
+            <label for="no">No</label>
+            <input type="radio" name="nickname" value="yes" id="yes">
+            <label for="yes">Yes</label>
+            <label for="name">it is:</label>
+            <input type="text" name="name" id="name">
+
+            <br>
+
+            <label for="pesonal-motto">Enter your personal motto:</label>
+            <input type="textarea" name="pesonal-motto" value="All is well that ends well." id="pesonal-motto">
+
+            <br>
+
+            <label for="">When you are done with the above responses, please submit this information by clicking on your
+                current geographic location on this map:</label>
+            <br>
+            <img src="../../multi/bai14.png" id="hinh"  alt="">
+            <br>
+            <input type="submit" value="Send this survey">
+            <input type="reset" value="Canel this survey">
+        </form>
+    </div>
+   </body>
+</html>

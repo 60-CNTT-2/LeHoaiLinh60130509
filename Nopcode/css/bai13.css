@@ -1,0 +1,12 @@
+div{
+    width: 500px;
+    margin: auto;
+    border: 3px double black;
+}
+h1{
+    text-align: center;
+}
+form{
+    width: 500px;
+    margin: auto;
+}

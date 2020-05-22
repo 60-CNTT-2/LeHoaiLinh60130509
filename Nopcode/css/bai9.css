@@ -1,0 +1,14 @@
+div{
+    width: 600px;
+    margin: auto;
+    border: 3px double black;
+    padding: 5px;
+    background-image: url(../multi/bai9.jpg);
+}
+h3{
+    color: firebrick;
+}
+#dautrang{
+    text-align: right;
+    color: rgb(78, 15, 160);
+}

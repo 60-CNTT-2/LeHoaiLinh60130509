@@ -1,0 +1,22 @@
+div{
+    width: 630px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 4px;
+}
+table{
+    width:600px ;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+.mau{
+    background-color: darkorange;
+}
+h1{
+    text-align: center;
+}
+td{
+    border: 1px solid black;
+}

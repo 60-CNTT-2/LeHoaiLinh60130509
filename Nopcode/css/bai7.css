@@ -1,0 +1,12 @@
+div{
+    width: 600px;
+    margin: auto;
+    border: 1px solid black;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+li{
+    color: darkorange;
+}

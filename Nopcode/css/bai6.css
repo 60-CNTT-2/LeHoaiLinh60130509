@@ -1,0 +1,15 @@
+div{
+    width: 600px;
+    margin: auto;
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+li{
+    color: slateblue;
+}
+p{
+    color: rgb(15, 150, 76);
+}

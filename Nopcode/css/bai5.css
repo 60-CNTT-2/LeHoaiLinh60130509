@@ -1,0 +1,13 @@
+.kihieu{
+    text-align: center;
+}
+#dii{
+           border: 1px solid rgb(73, 30, 30);
+            max-width: fit-content;
+            margin: 0px auto;
+            padding: 10px;
+            font-size: 20px;
+            background-color: rgb(179, 172, 172);
+            background-position: 100%;
+            background-repeat: no-repeat;
+}
