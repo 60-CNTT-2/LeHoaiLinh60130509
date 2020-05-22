@@ -1,0 +1,12 @@
+fieldset{
+    background-color:rgb(126, 122, 122);
+    width: 500px;
+    height: 200px;
+}
+
+h2{
+    text-align: center;
+}
+span{
+    color:red;
+}
