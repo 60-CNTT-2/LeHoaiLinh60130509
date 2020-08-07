@@ -1,0 +1,52 @@
+div{
+    width: 1000px;
+    margin: auto;
+}
+header{
+    width: 1000px;
+    height: 200px;
+    float: left;
+    background:repeating-linear-gradient(rgb(52, 179, 27),rgb(168, 216, 128));
+}
+aside{
+    width: 300px;
+    height: 700px;
+    float: left;
+    background-color: darkslategray;
+}
+nav{
+    width: 700px;
+    height: 100px;
+    float: right;
+    background-color: darkorchid;
+}
+section{
+    width:700px ;
+    height: 600px;
+    float: right;
+    background-color: darkred;
+}
+footer{
+    width: 1000px;
+    height: 100px;
+    float: left;
+    background-color: dodgerblue;
+}
+
+h1{
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 50px;
+    line-height: 26.4px; 
+    color: rgb(202, 223, 170); 
+    padding-left: 5px; 
+}
+p { font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif; 
+    font-size: 24px; line-height: 20px; 
+    color: rgb(45, 41, 78);
+    padding-left: 5px;
+}
+header #DN
+{
+    width: 50px;
+    height: 50px;
+}

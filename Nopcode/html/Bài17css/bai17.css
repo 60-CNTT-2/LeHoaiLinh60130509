@@ -1,0 +1,167 @@
+body{
+    width: 1000px;
+    margin: 0px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    size: 4cm;
+}
+#baner{
+    width: 1000px;
+    height: 300px;
+    border: 1px solid rgb(22, 192, 45);
+}
+#menu{
+    width: 1000px;
+    height: 40px;
+    background-color: rgb(125, 182, 33);
+}
+#main-L{
+    width: 700px;
+    height: 1200px;
+    float: left;
+    background-color: rgb(112, 218, 109);
+    padding-left: 10px;
+}
+#main-R{
+    width: 290px;
+    height: 1200px;
+    float: right;
+    background-color: rgb(112, 218, 109);
+}
+#footer{
+    width: 1000px;
+    height: 140px;
+    background-color: rgb(90, 86, 94);
+    float: left;
+}
+#imglogo{
+    width: 200px ;
+    height: 200px;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    float: left;
+    opacity: 0.8;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#buton{
+    height:auto;
+    text-align: center;
+    float: right;
+    padding-top: 20px;
+    padding-right: 5px;
+}
+#menucon{
+    padding-bottom: 200px;
+    padding-right: 10px;
+}
+#menucon ul{
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}
+#menucon ul li{
+    float: left;
+}
+#menucon ul li a{
+    text-decoration: none;
+    border-right: 1px solid rgb(70, 54, 214);
+    padding: 0px 10px;
+}
+#baner .border{
+    border: none;
+}
+#menu ul{
+    margin: 0px;
+    padding-top: 10px;
+}
+#menu ul li{
+    float: left;
+}
+#menu ul li a{
+    text-decoration: none;
+    border-right: 2px solid rgb(233, 221, 223);
+    padding: 0px 20px ;
+}
+#menu .border{
+    border: none;
+} 
+
+ #luffy{
+    width: 250px;
+    height: 300px;
+}
+#tsp{
+    width: 400px;
+    float: right ;
+    text-align: justify;
+    padding-right: 10px;
+}
+#list-img ul{
+    margin: 0px;
+    padding-top: 10px;
+}
+#list-img .img2{
+    width: 15%;
+    margin-right: 9px;
+    float: left;
+}
+#tintuc ul{
+    margin: 0px;
+    padding: 0px;
+}
+#tintuc ul li{
+    list-style: none;
+    border-bottom: 2px dotted black;
+    padding-bottom: 10px;
+    line-height: 1.25;
+}
+#tintuc ul .border{
+    border: none;
+}
+#tintuc ul li a{
+    text-decoration: none;
+}
+#baner1 #img3{
+    padding-top: 20px;
+    width: 600px;
+    height: 300px;
+}
+#main-R #link h2{
+    text-align: center;
+}
+#main-R ul {
+    margin: 0px auto;
+}
+#main-R ul li{
+    padding-top: 5px;
+}
+.anime{
+    width: 230px;
+    height: 110px;
+}
+#ul{
+    list-style: none;
+}
+#footer #left{
+    width: 200px;
+    height: 100px; 
+    float: left;
+}
+#footer #right{
+    width: 300px;
+    float: right;
+}
+#footer #right ul li{
+    list-style: none;
+    float: left;
+}
+#footer #right ul li a{
+    text-decoration: none;
+    border-right: 1px solid rgb(70, 54, 214);
+    padding: 0px 10px;
+}
+#footer #right ul .border{
+    border: none;
+}
